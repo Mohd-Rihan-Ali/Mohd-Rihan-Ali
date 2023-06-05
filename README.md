@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohd-Rihan-Ali
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning DSA and Web Development.
+- 👀 I’m interested web app development.
+- 🌱 Web App Developer
 - 📫 Can reach me through my email: mohdrihanali4130@gmail.com
 
 <!---
