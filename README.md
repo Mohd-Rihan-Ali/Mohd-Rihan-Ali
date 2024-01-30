@@ -20,9 +20,6 @@ An end-to-end Booking application using React.js, Node.js, Express.js, and Mongo
 ### Open Source Contribution
 Actively contributing to the backend development of an open-source project, utilizing Prisma as an ORM, Node.js, Express.js, transactions, and PostgreSQL. Developed a robust discussion forum API for seamless discussions.
 
-### Weather API and To-do List
-Built a Weather API and a To-do list using JavaScript, Node.js, Express.js, and MongoDB. The Weather API provides current weather conditions for any city globally, and the To-do list helps users maintain daily tasks.
-
 ## Notable Achievements
 - Web Master at IEEE-Computer Society (Student Branch)
 - Tech Head at Entrepreneurship Development Cell
