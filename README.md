@@ -33,4 +33,4 @@ Built a Weather API and a To-do list using JavaScript, Node.js, Express.js, and 
 
 I am currently seeking opportunities to contribute my skills and creativity. Let's collaborate and create something amazing together! 🚀
 
-![Coding GIF]([Your Coding GIF URL](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
+![Coding GIF](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
