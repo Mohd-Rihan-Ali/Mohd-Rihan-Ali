@@ -29,7 +29,7 @@ Built a Weather API and a To-do list using JavaScript, Node.js, Express.js, and 
 - First position in Inter House Basketball tournament
 
 ## Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([Your LinkedIn Profile URL](https://www.linkedin.com/in/mohd-rihan-ali/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohd-rihan-ali/)
 
 I am currently seeking opportunities to contribute my skills and creativity. Let's collaborate and create something amazing together! 🚀
 
