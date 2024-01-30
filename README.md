@@ -32,5 +32,3 @@ Built a Weather API and a To-do list using JavaScript, Node.js, Express.js, and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohd-rihan-ali/)
 
 I am currently seeking opportunities to contribute my skills and creativity. Let's collaborate and create something amazing together! 🚀
-
-[![Coding GIF](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
