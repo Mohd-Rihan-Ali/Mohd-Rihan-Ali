@@ -3,6 +3,7 @@
 I am a passionate Full Stack Developer with a strong foundation in both front-end and back-end technologies. My goal is to create innovative and efficient solutions that deliver exceptional user experiences.
 
 ## Skills
+- **Data Structures and Algorithms:** [![LeetCode](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=leetcode)](https://leetcode.com/Mohd_Rihan_Ali/)
 - **Front End Development:** React.js, JavaScript, TypeScript, TailwindCSS, HTML5, SCSS, Bootstrap
 - **Back End Development:** Node.js, Express.js, MongoDB, PostgreSQL, ORM (Prisma)
 - **Programming Languages:** C++, JavaScript, TypeScript, Python
@@ -27,5 +28,6 @@ Actively contributing to the backend development of an open-source project, util
 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohd-rihan-ali/)
+[![LeetCode](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=leetcode)](https://leetcode.com/Mohd_Rihan_Ali/)
 
 I am currently seeking opportunities to contribute my skills and creativity. Let's collaborate and create something amazing together! 🚀
