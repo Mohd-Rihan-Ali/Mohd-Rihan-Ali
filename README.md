@@ -1,7 +1,5 @@
 # Hello, I'm Rihan! 👋
 
-![Profile Banner](https://user-images.githubusercontent.com/YourImageLinkHere/banner.png)
-
 I am a passionate Full Stack Developer with a strong foundation in both front-end and back-end technologies. With expertise in **React.js, Node.js, and blockchain technologies**, I have successfully developed end-to-end impactful applications. My ability to communicate effectively and collaborate in leadership roles has helped me excel in various projects. I am always eager to leverage my programming skills and problem-solving abilities to contribute innovative solutions and drive project success. My goal is to create cutting-edge solutions that provide exceptional user experiences.
 
 ## 🛠️ Skills
@@ -70,6 +68,6 @@ I am a passionate Full Stack Developer with a strong foundation in both front-en
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohd-rihan-ali/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Mohd-Rihan-Ali/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Connect-blue?style=flat&logo=leetcode)](https://leetcode.com/Mohd_Rihan_Ali/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Connect-blue?style=flat&logo=leetcode)](https://leetcode.com/mohd-rihan-ali/)
 
 I am currently open to opportunities where I can apply my skills and creativity. Let's collaborate and build something amazing together! 🚀
